@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://www.justwords.in/wp-content/uploads/2020/10/indian-food-image.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+align-content: space-around;
+align-items: center;
+}
+
+
+#form{
+    background-color: rgba(235, 229, 229, 0.322);
+    width: 550px;
+    height: 300px;
+  text-align: center;
+  box-shadow: 25px;
+  border-radius: 25px;
+  position: absolute;
+  top: 200px;
+  left: 470px;
+  text-shadow: 70px;
+  text-decoration: black;
+}
+#head{
+    color: rgba(251, 246, 244, 0.682);
+text-shadow: 15px;
+}
